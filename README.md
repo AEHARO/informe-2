@@ -4,9 +4,11 @@
 1. OBJETIVOS
 
 Conocer mas acerca de la resistencia ,corriente y voltaje de un circuito y la manera de encontrar estos dato en un circuito eléctrico analizando sus caracteristicasy diferentes formas de llegar al resultado 
+
 Objetivos específicos 
 •	Indagar sobre la ley de ohm 
-•	Desarrollar destrezas que nos permitan resolver los ejercicios planteados 
+•	Desarrollar destrezas que nos permitan resolver los ejercicios planteados  * 
+fundamentar cada aspecto de la corriente resistencia y voltaje
 •	Analizar y diseñar circuitos eléctricos 
 
 
@@ -27,6 +29,7 @@ Objetivos específicos
 ![image](https://user-images.githubusercontent.com/105679480/170432289-c547be4d-5aaf-4109-973e-41cf1fd12af8.png)
 ![image](https://user-images.githubusercontent.com/105679480/170432384-71a96f71-baa4-4f3f-b30a-794ac7180cd4.png)
 ![image](https://user-images.githubusercontent.com/105679480/170437113-0e0e9c43-7549-483f-b7c8-a91e0c49186f.png)
+![image](https://user-images.githubusercontent.com/105679480/170446804-326ef19f-d030-407b-be93-22c369e43a97.png)
 
 
 4. VÍDEO.
