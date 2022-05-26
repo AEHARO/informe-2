@@ -29,7 +29,7 @@ Objetivos específicos
 ![image](https://user-images.githubusercontent.com/105679480/170437113-0e0e9c43-7549-483f-b7c8-a91e0c49186f.png)
 
 
-4. VÍDEO
+4. VÍDEO.
 
 https://www.youtube.com/watch?v=nEqwTkd1Pqg
 
