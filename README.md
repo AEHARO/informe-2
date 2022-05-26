@@ -3,54 +3,52 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+Conocer mas acerca de la resistencia ,corriente y voltaje de un circuito y la manera de encontrar estos dato en un circuito eléctrico analizando sus caracteristicasy diferentes formas de llegar al resultado 
+Objetivos específicos 
+•	Indagar sobre la ley de ohm 
+•	Desarrollar destrezas que nos permitan resolver los ejercicios planteados 
+•	Analizar y diseñar circuitos eléctricos 
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/105679480/170400931-d0bc284c-5249-488c-921b-f2e7d7c6d19b.png)
+![image](https://user-images.githubusercontent.com/105679480/170400982-3cd849ba-d756-4965-9179-216edee871af.png)
+![image](https://user-images.githubusercontent.com/105679480/170401005-f70fe095-4aa5-4814-a986-199812d5903d.png)
+![image](https://user-images.githubusercontent.com/105679480/170401072-36f51e27-ec2d-4c37-9928-b5154da0bc97.png)
+![image](https://user-images.githubusercontent.com/105679480/170401142-8ccdf150-e3e4-47c2-b89a-be5db8493dbb.png)
+![image](https://user-images.githubusercontent.com/105679480/170401171-fce6ff2c-ea9e-4574-96bf-74f66ff616d2.png)
+3.EJERCICIOS RESUELTOS
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+![image](https://user-images.githubusercontent.com/105679480/170431857-af1c539f-d960-4a6b-8520-986a036bcca6.png)
+![image](https://user-images.githubusercontent.com/105679480/170431917-3c823964-9b30-4e0e-90d6-fdbf466a6f2d.png)
+![image](https://user-images.githubusercontent.com/105679480/170432165-504222f5-b7fa-4549-93b4-7a102f1ece0f.png)
+![image](https://user-images.githubusercontent.com/105679480/170432234-9d3b4640-c556-4f5b-aac3-4ceb8c7b11c5.png)
+![image](https://user-images.githubusercontent.com/105679480/170432289-c547be4d-5aaf-4109-973e-41cf1fd12af8.png)
+![image](https://user-images.githubusercontent.com/105679480/170432384-71a96f71-baa4-4f3f-b30a-794ac7180cd4.png)
+![image](https://user-images.githubusercontent.com/105679480/170437113-0e0e9c43-7549-483f-b7c8-a91e0c49186f.png)
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+4. VÍDEO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
-
-4. VIDEO
-
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://www.youtube.com/watch?v=nEqwTkd1Pqg
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+
+Tras una extensa investigación podemos concluir lo siguiente :
+Los circuitos tienen 3 partes importantes como lo es la resistencia, la corriente y el voltaje ,cada una con su respectiva función y que con ayuda de la ley de ohm podemos calcular cualquiera de esos valores en caso de que sean una incognita utilizando la formula correspondiente
+Por otro lado conocimos que la potencia nominal en watts de un resistor determina la potencia máxima que puede manejar con seguridad , y entre otras cosas como que los resistores mas grandes puedes disparar mas potencia en forma de calor que los resistores pequeños 
+
+
 
 6. BIBLIOGRAFÍA
+7. 
+F. (2016, 31 octubre). ¿Qué es la ley de Ohm? Fluke. Recuperado 22 de mayo de 2022, de https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
 
-Emplear normas APA.
+A. (2022, 8 marzo). Relación entre potencia y energía. Kosner. Recuperado 23 de mayo de 2022, de https://www.kosner.es/relacion-potencia-energia/
+
+Corriente, voltaje y resistencia. (s. f.). Humane Slaughter Association. Recuperado 22 de mayo de 2022, de https://www.hsa.org.uk/electricidad/corriente-voltaje-y-resistencia#:%7E:text=La%20relaci%C3%B3n%20entre%20corriente%2C%20voltaje,la%20temperatura%20se%20mantenga%20constante.
 
 RUBRICA
 
